@@ -1,0 +1,19 @@
+{
+    "name": "sdk/number-format",
+    "description": "this is a number package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhouwenming\\Kujiang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhouwenming",
+            "email": "524797132@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
